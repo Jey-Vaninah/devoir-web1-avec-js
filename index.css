@@ -1,0 +1,40 @@
+#content{
+    text-align: center;
+   
+}
+p{
+    padding: 3vh;
+}
+
+#form{
+    width: 50%;
+    height: 40vh;
+    background-color: green;
+   margin-left: 25%;
+  border-radius: 3vw;
+}
+#sujet{
+    width: 40vw;
+    height: 5vh;
+    border-radius: 2vw;
+    margin: 2vh;
+    border: none;
+}
+#reponse{
+    width: 30vw;
+    height: 3vh;
+    border-radius: 2vw;
+    border: none;
+}
+
+button{
+    color: white;
+    font-weight: bold;
+    transition: transform 1.5s;
+    background-color: black;
+    border: 1px black solid;
+    height: 3vh;
+    width: 7vw;
+    margin-left: 2vw;
+    border-radius: 2vw;
+}
